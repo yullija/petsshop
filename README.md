@@ -1,1 +1,1 @@
-# petsshopі
+# petsshop
